@@ -53,5 +53,5 @@ Outcome This script demonstrates a fully functional data preprocessing pipeline,
 
 # OUTPUT
 
-https://github.com/user-attachments/assets/a9
+![Image](https://github.com/user-attachments/assets/1c986c39-9fb2-4863-8488-dc6fa975a72a)
 

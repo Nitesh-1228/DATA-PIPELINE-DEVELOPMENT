@@ -11,7 +11,7 @@ DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTHOSH
 
-#DESCRIPTION
+# DESCRIPTION
 
 This task demonstrates the creation of a complete ETL (Extract, Transform, Load) pipeline on the dataset index_1.csv. It automates all key preprocessing stages using Pandas, NumPy, and Scikit-learn, producing a clean dataset ready for machine learning workflows.
 teps Performed
@@ -45,7 +45,6 @@ The transformed features are combined into a new DataFrame. If present, target, 
 
 Step 10: Save Output
 
-#OUTPUT
-
+# OUTPUT
 
 The final cleaned and transformed dataset is saved as cleaned_index_data.csv. This file is ready for use in model training and evaluation.

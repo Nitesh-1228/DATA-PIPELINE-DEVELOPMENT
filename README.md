@@ -43,8 +43,14 @@ Two pipelines (numeric and categorical) are built and combined using ColumnTrans
 Step 9: Reconstruct Final Dataset
 The transformed features are combined into a new DataFrame. If present, target, identifier, and high-cardinality columns are added back to retain context.
 
-Step 10: Save Output
+Step 10: Saving Processed Data The final preprocessed training and testing sets are saved as CSV files:
+
+index_1.csv
+
+cleaned_index_data.csv These files can be used directly for training and validating machine learning models.
+
+Outcome This script demonstrates a fully functional data preprocessing pipeline, automating the essential steps from raw data to clean, ready-to-use inputs. It is efficient, well-documented, and aligned with real-world data science practices.
 
 # OUTPUT
 
-The final cleaned and transformed dataset is saved as cleaned_index_data.csv. This file is ready for use in model training and evaluation.
+
